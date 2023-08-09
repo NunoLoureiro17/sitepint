@@ -1,0 +1,24 @@
+.login-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    font-size: 16px;
+    outline: none;
+    font-weight: bold;
+    text-decoration: none;
+    margin-bottom: 10px;
+    border: none; 
+    cursor: pointer; 
+  }
+  
+  .login-button.facebook {
+    background-color: #3b5998; 
+    color: #fff;
+  }
+  
+  .login-button.google {
+    background-color: #db4a39; 
+    color: #fff;
+  }
+  
